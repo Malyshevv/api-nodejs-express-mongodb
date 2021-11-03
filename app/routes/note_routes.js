@@ -50,7 +50,7 @@ module.exports = function(app,db) {
         })
     });
 
-    //http://localhost:8000/news/id - PUT (update post)
+    //http://localhost:8000/news/id - PUT (update post) 
     app.put('/news/:id',(req,res) => {
         const id = req.params.id;
         const params = { '_id': new ObjectID(id) };
