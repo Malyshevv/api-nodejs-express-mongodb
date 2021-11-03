@@ -12,4 +12,4 @@
 - /news/id - mthod: PUT,  info: update post
 
 # Info
-- для работы с mongodb необходимо скачать [[https://www.mongodb.com/try/download/community]]
+- для работы с mongodb необходимо скачать MongoDB Community Server - [[https://www.mongodb.com/try/download/community]]
