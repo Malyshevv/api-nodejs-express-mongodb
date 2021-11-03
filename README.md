@@ -11,5 +11,5 @@
 - /news/id - mthod: DELETE,  info: delete post
 - /news/id - mthod: PUT,  info: update post
 
-#Info
-для работы с mongodb необходимо скачать [[https://www.mongodb.com/try/download/community]]
+# Info
+- для работы с mongodb необходимо скачать [[https://www.mongodb.com/try/download/community]]
