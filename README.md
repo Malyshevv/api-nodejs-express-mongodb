@@ -1,5 +1,5 @@
 # API основная информация
-- api доступна по url http://localhost:8000/
+- api доступен по url http://localhost:8000/
 
 # API файл конфиг
 - /config/db.js
