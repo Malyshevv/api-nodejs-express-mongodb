@@ -1,10 +1,12 @@
-# API основная информация
-- api доступен по url http://localhost:8000/
+# API about
+- api url - http://localhost:8000/
+- api docs - http://localhost:8000/api-docs/  (auto gen. swagger sitemap)
 
-# API файл конфиг
+# API files settings
 - /config/db.js
+- /config/access.js
 
-# API методы
+# API methods
 - /news/id - method: GET, info: singl post
 - /news/ - method: GET,  info: all posts
 - /news/ - method: POST,  info: insert post
