@@ -13,7 +13,7 @@
 - /news/id - method: DELETE,  info: delete post
 - /news/id - method: PUT,  info: update post
 
-# 🥸 Info
+# 💬 Info
 - MongoDB Community Server - https://www.mongodb.com/try/download/community
 - Postman - https://www.postman.com/downloads/
 - для работы с json - https://www.json-generator.com/
