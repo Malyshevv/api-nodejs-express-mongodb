@@ -1,8 +1,8 @@
-# API about
+# 💭 API about
 - api url - http://localhost:8000/
 - api docs - http://localhost:8000/api-docs/  (auto gen. swagger sitemap)
 
-# API files settings
+# 🥸 API files settings
 - /config/db.js
 - /config/access.js
 
